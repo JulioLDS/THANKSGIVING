@@ -1,0 +1,1 @@
+O site é um projeto simples de uma página que tem como intuito, trazer informações sobre o "Thanksgiving day" ou dia de ação de graças. A página apresenta opção para a mudança do idioma, tanto em inglês como em portugês.
